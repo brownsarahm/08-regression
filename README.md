@@ -1,3 +1,3 @@
 # Linear Regression
 
-Instructions: https://rhodyprog4ds.github.io/BrownFall20/assignments/08-regression
+Instructions: https://rhodyprog4ds.github.io/BrownFall21/assignments/08-regression
